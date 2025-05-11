@@ -1,5 +1,5 @@
 
-## Olá, me chamo Igor Silva Sena, Sou desenvolvedor Web Front & Mobile!
+## Olá, me chamo Igor Silva Sena!
 
   
 
