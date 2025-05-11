@@ -1,7 +1,6 @@
 
-## Olá, me chamo Igor Sena, desenvolvedor web!
+## Olá, me chamo Igor Silva Sena, Sou desenvolvedor Web Front & Mobile!
 
-  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
   
 
   
