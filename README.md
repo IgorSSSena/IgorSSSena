@@ -21,7 +21,9 @@
  
 ##
 
-![Snake animation](https://github.com/IgorSSSena/IgorSSSena/blob/output/github-contribution-grid-snake.svg)
+### 🐍 Snake animation
+
+![snake gif](https://raw.githubusercontent.com/IgorSSSena/IgorSSSena/output/github-contribution-grid-snake.svg)
 
 
 
